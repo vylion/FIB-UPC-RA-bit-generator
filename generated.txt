@@ -1,0 +1,25 @@
+Bits in a string: 16
+Set size: 5000
+Number of sets: 10
+Approximation of E[M_n]: 131.5
+----
+Bits in a string: 16
+Set size: 5000
+Number of sets: 10
+Approximation of E[M_n]: 119.5
+----
+Bits in a string: 16
+Set size: 5000
+Number of sets: 10
+Approximation of E[M_n]: 129.5
+----
+Bits in a string: 16
+Set size: 5000
+Number of sets: 10
+Approximation of E[M_n]: 103.0
+----
+Bits in a string: 16
+Set size: 5000
+Number of sets: 10
+Approximation of E[M_n]: 99.0
+----
